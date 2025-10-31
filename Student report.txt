@@ -1,0 +1,14 @@
+STUDENT MANAGEMENT SYSTEM REPORT
+========================================
+
+Generated on: 2025-10-14 23:33:55
+
+Total Students: 3
+Active Students: 0
+Inactive Students: 3
+
+STUDENT LIST:
+--------------------
+Jain, Harshit - hdgfah@gmail.com (Graduated)
+Pratap, Aayaam - yugrfshe@gmail.com (Inactive)
+Ranjan, Nishant - jhwgfbhjerbf@gmail.com (Graduated)
